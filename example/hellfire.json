@@ -1,0 +1,166 @@
+{
+  "segments": [
+    {
+      "id": "seg-001",
+      "text": "Welcome to 'Hellfire HR', the only podcast where we discuss the daily struggles of working in the underworld. I'm your host, Lucifero.",
+      "voice": "de-Spk0_man"
+    },
+    {
+      "id": "seg-002",
+      "text": "And I'm Beatrice, head of Eternal Complaints. Today we're talking about the most requested topic: Why is the coffee always on fire?",
+      "voice": "en-Emma_woman"
+    },
+    {
+      "id": "seg-003",
+      "text": "Beatrice, it's Hell! Everything is on fire! That's literally the point!",
+      "voice": "de-Spk0_man"
+    },
+    {
+      "id": "seg-004",
+      "text": "I know, but the demons keep filing complaints. Last week, someone said the fire was 'too warm'. Too warm! In Hell!",
+      "voice": "en-Emma_woman"
+    },
+    {
+      "id": "seg-005",
+      "text": "Okay, let's move on. Speaking of complaints, I got one from the IT department. Apparently, the Wi-Fi password is too long.",
+      "voice": "de-Spk0_man"
+    },
+    {
+      "id": "seg-006",
+      "text": "What is it?",
+      "voice": "en-Emma_woman"
+    },
+    {
+      "id": "seg-007",
+      "text": "It's 'TheEternalSufferingOfTheDamnedShallNeverCease666'. Honestly, I thought it was pretty catchy.",
+      "voice": "de-Spk0_man"
+    },
+    {
+      "id": "seg-008",
+      "text": "That's... forty-seven characters. No wonder the interns can't connect.",
+      "voice": "en-Emma_woman"
+    },
+    {
+      "id": "seg-009",
+      "text": "The interns! Don't even get me started on the interns. They keep asking when their internship ends.",
+      "voice": "de-Spk0_man"
+    },
+    {
+      "id": "seg-010",
+      "text": "And you tell them?",
+      "voice": "en-Emma_woman"
+    },
+    {
+      "id": "seg-011",
+      "text": "Never! It's in the contract! Did they not read the fine print? It clearly says 'for all eternity, no exceptions, no weekends off.'",
+      "voice": "de-Spk0_man"
+    },
+    {
+      "id": "seg-012",
+      "text": "Speaking of contracts, we got a new guy from Accounting. He says he sold his soul for 'a really good parking spot.'",
+      "voice": "en-Emma_woman"
+    },
+    {
+      "id": "seg-013",
+      "text": "Did he get it?",
+      "voice": "de-Spk0_man"
+    },
+    {
+      "id": "seg-014",
+      "text": "Oh yes. Right next to the lake of fire. Very convenient. Slightly warm.",
+      "voice": "en-Emma_woman"
+    },
+    {
+      "id": "seg-015",
+      "text": "Perfect! Okay, next topic: The annual company retreat. Where are we thinking this year?",
+      "voice": "de-Spk0_man"
+    },
+    {
+      "id": "seg-016",
+      "text": "Someone suggested... Heaven.",
+      "voice": "en-Emma_woman"
+    },
+    {
+      "id": "seg-017",
+      "text": "Absolutely not! Last time we went there, they made us do trust falls and sing hymns. I'm still traumatized!",
+      "voice": "de-Spk0_man"
+    },
+    {
+      "id": "seg-018",
+      "text": "Fair point. What about Purgatory? It's kind of neutral.",
+      "voice": "en-Emma_woman"
+    },
+    {
+      "id": "seg-019",
+      "text": "Purgatory is so boring though. It's just... waiting. Forever. With elevator music.",
+      "voice": "de-Spk0_man"
+    },
+    {
+      "id": "seg-020",
+      "text": "True. At least here we have entertainment. Did you see the new torture methods demo?",
+      "voice": "en-Emma_woman"
+    },
+    {
+      "id": "seg-021",
+      "text": "The one with the PowerPoint presentation that never ends? Brilliant! Pure evil. I promoted the guy who came up with that.",
+      "voice": "de-Spk0_man"
+    },
+    {
+      "id": "seg-022",
+      "text": "Speaking of promotions, we need to talk about Cerberus. He wants a raise.",
+      "voice": "en-Emma_woman"
+    },
+    {
+      "id": "seg-023",
+      "text": "A raise? He has three heads! He's already getting paid triple!",
+      "voice": "de-Spk0_man"
+    },
+    {
+      "id": "seg-024",
+      "text": "He says each head has different dietary needs. The left one is vegan now.",
+      "voice": "en-Emma_woman"
+    },
+    {
+      "id": "seg-025",
+      "text": "Vegan?! In Hell?! What does he even eat here that's vegan?",
+      "voice": "de-Spk0_man"
+    },
+    {
+      "id": "seg-026",
+      "text": "Sinners' regrets. Technically plant-based.",
+      "voice": "en-Emma_woman"
+    },
+    {
+      "id": "seg-027",
+      "text": "I... okay. Fine. Give him the raise. But only the left head!",
+      "voice": "de-Spk0_man"
+    },
+    {
+      "id": "seg-028",
+      "text": "Perfect. Well, that's all the time we have today, folks.",
+      "voice": "en-Emma_woman"
+    },
+    {
+      "id": "seg-029",
+      "text": "Remember, if you're listening from down here, you're already in the right place. If you're listening from up there...",
+      "voice": "de-Spk0_man"
+    },
+    {
+      "id": "seg-030",
+      "text": "We'll see you soon!",
+      "voice": "en-Emma_woman"
+    },
+    {
+      "id": "seg-031",
+      "text": "Until next time, keep those fires burning, and remember: HR stands for Hellish Resources!",
+      "voice": "de-Spk0_man"
+    },
+    {
+      "id": "seg-032",
+      "text": "Bye everyone!",
+      "voice": "en-Emma_woman"
+    }
+  ],
+  "createdAt": "2025-12-14T19:53:00.000Z",
+  "version": "1.0.0"
+}
