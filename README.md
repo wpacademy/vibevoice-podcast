@@ -11,6 +11,11 @@ Create multi-voice podcasts with AI text-to-speech. Add segments, assign differe
 - **Project management** — Export/Import podcasts as JSON
 
 ---
+## Demo
+
+<video controls width="300" height="50">
+  <source src="example/podcast-1765731548214.wav" type="audio/mpeg">
+</video>
 
 ## Prerequisites
 
