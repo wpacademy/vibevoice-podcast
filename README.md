@@ -13,13 +13,6 @@ Create multi-voice podcasts with AI text-to-speech. Add segments, assign differe
 - **Project management** — Export/Import podcasts as JSON
 
 ---
-## Demo
-
-![alt text](example/screenshot.png "Screenshot")
-
-[example/podcast-1765734509668.wav](example/podcast-1765734509668.wav)
-
-
 ## Prerequisites
 
 ### 1. Clone VibeVoice
@@ -31,20 +24,7 @@ cd VibeVoice
 
 ### 2. Start the API Server
 
-Copy the server script to your VibeVoice directory:
-
-```bash
-cp example/server.py /path/to/VibeVoice/demo/server.py
-```
-
-Run the server:
-
-```bash
-cd /path/to/VibeVoice
-python demo/server.py --model microsoft/VibeVoice-Realtime-0.5B --device cuda --port 8880
-```
-
-The server will start at `http://localhost:8880`.
+Follow this Step-by-Step guide for Installing VibeVoice with Cuda GPU on Windows (SETUP_GUIDE)[https://github.com/wpacademy/vibevoice-podcast/blob/main/SETUP_GUIDE.md]
 
 ---
 
