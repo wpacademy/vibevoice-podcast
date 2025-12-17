@@ -15,16 +15,8 @@ Create multi-voice podcasts with AI text-to-speech. Add segments, assign differe
 ---
 ## Prerequisites
 
-### 1. Clone VibeVoice
-
-```bash
-git clone https://github.com/microsoft/VibeVoice
-cd VibeVoice
-```
-
-### 2. Start the API Server
-
 Follow this Step-by-Step guide for Installing VibeVoice with Cuda GPU on Windows (SETUP_GUIDE)[https://github.com/wpacademy/vibevoice-podcast/blob/main/SETUP_GUIDE.md]
+
 
 ---
 
